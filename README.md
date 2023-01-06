@@ -1,4 +1,4 @@
-# Fast Capture for you APP
+# Fast Capture for your APP
 ___
 ## Required Libraries
 numpy opencv win32gui win32con win32ui win32process
